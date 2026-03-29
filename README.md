@@ -1,4 +1,5 @@
 # Data_Science_Assignment-2
+<b>👉 <a href="https://colab.research.google.com/drive/1tME-rP6CGxVJuz5DqyjPJD9WWluD6cw4?usp=sharing">Click Here to view the full assignment in Google Colab</a></b
 # Movie Dataset Analysis for Production Insights
 
 ## Overview
